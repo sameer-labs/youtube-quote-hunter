@@ -129,7 +129,7 @@ MIT License. Use it however you want. Sell it. Turn it into an NFT. I don't care
 
 ---
 
-Made by a CS student who got tired of rewatching videos.
+Made by an Engineering student who got tired of rewatching videos.
 
 If this saved you 10 minutes of your life, consider it a win. ⭐ It if you want, or don't—I'm not your dad.
 
